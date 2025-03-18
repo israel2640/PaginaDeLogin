@@ -34,7 +34,7 @@ Abra o arquivo index.html em um navegador.
 
 📷 Capturas de Tela
 
-(imagem aqui)
+<img src="caminho/para/Captura de tela.png" alt="Minha Imagem" width="300">
 
 📌 Melhorias Futuras
 
