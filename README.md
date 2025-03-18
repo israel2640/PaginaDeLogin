@@ -36,6 +36,7 @@ Abra o arquivo index.html em um navegador.
 
 <img src="caminho/para/Captura de tela.png" alt="Minha Imagem" width="300">
 
+
 📌 Melhorias Futuras
 
 Integração com um backend para validação de credenciais.
